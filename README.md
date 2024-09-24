@@ -25,7 +25,7 @@ Con esto, el archivo `.bat` ejecutará el proyecto en la ubicación donde se hay
 Para programar la ejecución del archivo `.bat` sigue estos pasos:
 1. Abre el programador de tareas escribiendo en el explorador de windows `programador de tareas`.
 2. En la ventana que se abre, selecciona `Importar tarea` en el panel derecho.
-3. Busca el archivo `tarea_programada_windows.xml` y selecciónalo.
+3. Busca el archivo `tarea_programada_windows.xml` dentro de la carpeta `bat` y selecciónalo.
 4. En la ventana que se abre, selecciona `Importar`.
 5. En la ventana de `Acción` selecciona `Editar`.
 6. En la ventana que se abre, en el apartado `Programa o script` agregue la ruta de su archivo `.bat` que ejecuta el proyecto.
